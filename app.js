@@ -1,4 +1,6 @@
-console.log ("hello")
-const First.name = ("Ivan")
+const FirstName = 'Kirill'
+console.log('Hello, my name is', FirstName)
 
-console First
+let LastName = 'Kushnarev'
+LastName = 'Zhivoi'
+console.log('And last name is', LastName)
