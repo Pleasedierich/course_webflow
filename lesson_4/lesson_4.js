@@ -1,5 +1,5 @@
-let titleProject = prompt('Название проекта?');
-let screensValue = prompt('Какой тип экранов? Шаблонные, с уникальным дизайном, с анимациями');
+let titleProject = prompt("Название проекта?");
+let screensValue = prompt("Какой тип экранов? Шаблонные, с уникальным дизайном, с анимациями");
 let responsive = confirm("Нужен ли респонсивный сайт?")
 
 let service1 = prompt("Какой сервис нужен?");
