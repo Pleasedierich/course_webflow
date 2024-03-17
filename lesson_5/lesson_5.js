@@ -50,7 +50,6 @@ function getTitle(string) {
     return string;
 }
     titleProject = getTitle(titleProject);
-console.log(titleProject);
 
 // Итоговая стоимость за вычетом процента подрядчику
 let getAllServicePercentPrice = function() {
