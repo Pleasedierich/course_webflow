@@ -21,7 +21,7 @@ let getFullPrice = function() {
     return allServicePrice + screenPrice;
 };
 
-    fullPrice = getFullPrice();
+    let fullPrice = getFullPrice();
 
 // Переводим первую букву названия проекта в верхний регистр
 function getTitle(string) {
